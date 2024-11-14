@@ -1,14 +1,13 @@
 {
-    "compilerOptions": {
-        "module": "ES2015",
-        "target": "ES2021",
-        "esModuleInterop": true, 
-        "skipDefaultLibCheck": true ,// to avoid chekcking node modules for type defenitions (longer time needed )
-        "declaration": true,
-        "declarationMap": true,
-        "sourceMap": true,
-        "strict": true,
-        "strictFunctionTypes": false
-
-    }
+	"compilerOptions": {
+		"module": "ES2015",
+		"target": "ES2021",
+		"esModuleInterop": true,
+		"skipDefaultLibCheck": true, // to avoid chekcking node modules for type defenitions (longer time needed )
+		"declaration": true,
+		"declarationMap": true,
+		"sourceMap": true,
+		"strict": true,
+		"strictFunctionTypes": false
+	}
 }
