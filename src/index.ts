@@ -1,8 +1,8 @@
 export type haha = true;
 console.log("hello");
 
-async function test(name: string) {
-	Promise.resolve(name);
+function test(name: string) {
+	console.log(name);
 }
 test("demo");
 
